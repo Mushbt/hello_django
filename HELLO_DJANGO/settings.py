@@ -31,7 +31,8 @@ SECRET_KEY = 'django-insecure-*rzl7i)1*h(!dea%p%y7y=g2^(9r&3%!+_$vd8)gcc(z8wvgya
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-mushbt-hello-django-umkq8waj5q.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-mushbt-hello-django-umkq8waj5q.us2.codeanyapp.com',
+                 'https://git.heroku.com/mushbt-django-todo-app.git']
 
 
 # Application definition
