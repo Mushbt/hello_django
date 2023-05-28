@@ -1,0 +1,4 @@
+# Created by coverage.py
+*.sqlite3
+__pycache__/
+env.py
